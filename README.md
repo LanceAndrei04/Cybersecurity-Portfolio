@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ Cybersecurity Portfolio
 
 > Building practical cybersecurity skills through hands-on activities, analysis, and continuous learning.
@@ -34,7 +33,6 @@ cybersecurity-portfolio/
 ├── google-cybersecurity/
 └── README.md
 ```
-````
 
 The `google-cybersecurity/` folder contains selected course activities, write-ups, and supporting files.
 
@@ -61,7 +59,3 @@ Activities in this repository that come from the Google Cybersecurity Profession
 ## 🚀 Portfolio Progress
 
 This portfolio is currently in progress and will continue to grow as I complete more hands-on cybersecurity activities and independent practice.
-
-```
-
-```
