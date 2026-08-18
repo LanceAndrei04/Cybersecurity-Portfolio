@@ -1,32 +1,31 @@
-```markdown
 # Internal Security Audit — Botium Toys
 
 > Google Cybersecurity Professional Certificate — Portfolio Activity
 
 ## Overview
 
-| Item | Details |
-|---|---|
-| **Scenario** | Internal security audit for Botium Toys, a fictional company |
-| **Focus** | Security controls, risk, and compliance gaps |
-| **Framework** | NIST Cybersecurity Framework |
-| **Compliance Areas** | PCI DSS, GDPR, SOC |
-| **Deliverable** | Controls and Compliance Checklist |
+| Item                 | Details                                                      |
+| -------------------- | ------------------------------------------------------------ |
+| **Scenario**         | Internal security audit for Botium Toys, a fictional company |
+| **Focus**            | Security controls, risk, and compliance gaps                 |
+| **Framework**        | NIST Cybersecurity Framework                                 |
+| **Compliance Areas** | PCI DSS, GDPR, SOC                                           |
+| **Deliverable**      | Controls and Compliance Checklist                            |
 
 ---
 
 ## Key Findings
 
-| Implemented | Gaps Identified |
-|---|---|
-| Firewall | Least privilege |
-| Antivirus | Separation of duties |
-| Physical locks | Encryption |
-| CCTV | IDS |
-| Fire detection | Backups |
-| Data integrity controls | Disaster recovery |
-|  | Strong password controls |
-|  | Proper asset classification |
+| Implemented             | Gaps Identified             |
+| ----------------------- | --------------------------- |
+| Firewall                | Least privilege             |
+| Antivirus               | Separation of duties        |
+| Physical locks          | Encryption                  |
+| CCTV                    | IDS                         |
+| Fire detection          | Backups                     |
+| Data integrity controls | Disaster recovery           |
+|                         | Strong password controls    |
+|                         | Proper asset classification |
 
 ---
 
@@ -61,4 +60,3 @@ A security control should not only exist — it should be implemented well enoug
 ---
 
 > **Note:** This is a simulated course activity completed as part of the Google Cybersecurity Professional Certificate. Botium Toys is a fictional organization.
-```
