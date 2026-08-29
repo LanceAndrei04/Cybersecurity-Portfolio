@@ -1,61 +1,80 @@
 # 🛡️ Cybersecurity Portfolio
 
-> Building practical cybersecurity skills through hands-on activities, analysis, and continuous learning.
+> Building practical cybersecurity skills through hands-on labs, investigations, security analysis, and continuous learning.
 
 Welcome to my cybersecurity portfolio.
 
-This repository documents my hands-on work as I progress through the **Google Cybersecurity Professional Certificate** and build practical skills for entry-level cybersecurity roles.
+This repository documents selected cybersecurity activities, SOC investigations, course-based exercises, and hands-on labs as I continue building practical skills for entry-level cybersecurity and Security Operations Center roles.
+
+My current focus is on **blue team and SOC fundamentals**, including alert triage, incident investigation, network analysis, security monitoring, and incident reporting.
 
 ---
 
-## 🎓 Current Learning
+## 📂 Portfolio Areas
 
-### Google Cybersecurity Professional Certificate
+### 🔵 SOC & Security Labs
 
-I am currently completing the Google Cybersecurity Professional Certificate and documenting selected activities that demonstrate practical cybersecurity skills.
+Hands-on exercises and simulated investigations involving:
 
-Topics include:
+- Alert triage
+- Initial incident investigation
+- Incident reporting and escalation
+- Host and process analysis
+- Command-line activity
+- Network activity
+- Indicators of Compromise (IOCs)
+- Basic threat analysis
+
+Current platforms include:
+
+- TryHackMe
+- picoCTF
+- Additional SOC and blue-team platforms as I continue learning
+
+---
+
+### 🎓 Google Cybersecurity Professional Certificate
+
+Completed the **Google Cybersecurity Professional Certificate** and documented selected hands-on activities that demonstrate practical cybersecurity concepts.
+
+Topics and activities include:
 
 - Security fundamentals
+- Security audits
 - Risk assessment
 - Linux and file permissions
 - SQL for security investigations
+- Network traffic analysis
 - Network security
 - Incident response
 - Security monitoring
+- Incident documentation
 
 ---
 
-## 📂 Repository Structure
+### 🚩 CTF & Cybersecurity Activities
+
+I also have introductory exposure to Capture The Flag activities through **picoCTF**, including beginner-level challenges involving:
+
+- OSINT
+- Web exploitation
+- Cryptography
+- Reverse engineering
+- Digital forensics
+
+These activities helped introduce me to attacker techniques, security problem-solving, and investigative thinking.
+
+---
+
+## 📁 Repository Structure
 
 ```text
-cybersecurity-portfolio/
+Cybersecurity-Portfolio/
 ├── google-cybersecurity/
+│
+│
+├── tryhackme/
+│
+│
 └── README.md
 ```
-
-The `google-cybersecurity/` folder contains selected course activities, write-ups, and supporting files.
-
----
-
-## 🎯 Goal
-
-My goal is to go beyond completing a certification by documenting how I:
-
-- Analyze security scenarios
-- Apply cybersecurity concepts
-- Identify risks and findings
-- Recommend appropriate security actions
-- Reflect on what I learned from each activity
-
----
-
-## 📌 Note
-
-Activities in this repository that come from the Google Cybersecurity Professional Certificate are clearly identified as **course-based exercises and simulations** and are not presented as professional work experience.
-
----
-
-## 🚀 Portfolio Progress
-
-This portfolio is currently in progress and will continue to grow as I complete more hands-on cybersecurity activities and independent practice.
